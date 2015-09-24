@@ -30,10 +30,10 @@ class Converser:
         input = self.client.rtm_read()
         if input:
           for action in input:
-            if action.get('type') and action.get('type') == "message":
+            if 'type' in action and action['type'] == "message":
               # Uncomment to only respond to messages addressed to us.
-              # if action.get('text') 
-              #   and action.get('text').lower().startswith(self.my_user_name):
+              # if 'text' in action
+              #   and action['text'].lower().startswith(self.my_user_name):
               self.process_message(action)
         else:
           sleep(1)
