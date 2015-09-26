@@ -1,7 +1,10 @@
 ### Incoming Web Hooks
 
 ```
-curl -X POST --data-urlencode 'payload={"text": "This is posted to <#general> and comes from *monkey-bot*.", "channel": "#general", "username": "monkey-bot", "icon_emoji": ":monkey_face:"}' https://hooks.slack.com/services/T00000000/B00000000/XXXXXXXXXXXXXXXXXXXXXXXX
+curl -X POST --data-urlencode \
+'payload={"text": "This is posted to <#general> and comes from *monkey-bot*.", \
+"channel": "#general", "username": "monkey-bot", "icon_emoji": ":monkey_face:"}' \
+https://hooks.slack.com/services/T00000000/B00000000/XXXXXXXXXXXXXXXXXXXXXXXX
 ```
 
 ### Outgoing Web Hooks
