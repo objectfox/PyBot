@@ -26,9 +26,11 @@ trigger_word=googlebot:
 
 Response:
 
+```
 {
   "text": "African or European?"
 }
+```
 
 ### Slash Commands
 
