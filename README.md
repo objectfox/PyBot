@@ -1,5 +1,5 @@
 # PyBot
-Resources for Slack Bots in Python
+Resources for Slack Bots in Python. Whipped up by [@jeffk](https://twitter.com/jeffk) and first presented at PyTexas 2015. [Slides are on slideshare](http://www.slideshare.net/jeffkramer1/hello-pybot).
 
 ## simple-post/post.py
 
@@ -8,8 +8,6 @@ A simple command line script to post a message to a channel as a bot user. The b
 ## converse/converse.py
 
 A small text matching and response bot, with triggers and responses stored in a JSON file.
-
-Whipped up by [@jeffk](https://twitter.com/jeffk) and first presented at PyTexas 2015.
 
 # Misc Resources
 
