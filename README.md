@@ -1,5 +1,5 @@
 # PyBot
-Resources for Slack Bots in Python. Whipped up by [@jeffk](https://twitter.com/jeffk) and first presented at PyTexas 2015. [Slides are on slideshare](http://www.slideshare.net/jeffkramer1/hello-pybot).
+Resources for Slack Bots in Python. Whipped up by [@jeffk](https://twitter.com/jeffk) and first presented at PyTexas 2015. [Slides are on slideshare](http://www.slideshare.net/jeffkramer1/hello-pybot), and [a video of the 20 minute PyTexas presentation is on YouTube](https://www.youtube.com/watch?v=7jwwhk5W56A).
 
 ## simple-post/post.py
 
