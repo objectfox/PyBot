@@ -1,6 +1,6 @@
 # PyBot
 
-Resources for Slack Bots in Python. Whipped up by [@jeffk](https://twitter.com/jeffk) and presented at PyTexas 2015 and the ATX Bot Talk meetup. [Slides from PyTexas](http://www.slideshare.net/jeffkramer1/hello-pybot) and [ATX Bot Talk, v2](http://www.slideshare.net/jeffkramer1/atx-bot-talk-hello-pybot), and [a video of the 20 minute PyTexas presentation is on YouTube](https://www.youtube.com/watch?v=7jwwhk5W56A).
+Resources for Slack Bots in Python. Whipped up by [@jeffk](https://twitter.com/jeffk) and presented at PyTexas 2015 and the ATX Bot Talk meetup. [Slides from PyTexas](http://www.slideshare.net/jeffkramer1/hello-pybot) and [ATX Bot Talk, v2](http://www.slideshare.net/jeffkramer1/atx-bot-talk-hello-pybot) are available, and [a video of the 20 minute PyTexas presentation is on YouTube](https://www.youtube.com/watch?v=7jwwhk5W56A).
 
 ## simple-post/post.py
 
